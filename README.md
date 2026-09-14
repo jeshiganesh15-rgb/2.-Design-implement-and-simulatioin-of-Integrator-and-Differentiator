@@ -76,10 +76,9 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
 
   **TABULATION:**
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 9 59 21 PM" src="https://github.com/user-attachments/assets/e968194e-2f2d-47c0-9678-52535547ca3d" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 9 59 21 PM (1)" src="https://github.com/user-attachments/assets/526f9f49-f91e-4a26-a99f-494346bf81a6" />
 
-  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 08 PM (1)" src="https://github.com/user-attachments/assets/bed23c4b-dcc6-4c0c-8ff2-96d5f2c851f3" />
-
- 
 
 **MODEL CALCULATION:**
 
@@ -97,8 +96,8 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
   **TABULATION:**
 
-  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 10 PM (1)" src="https://github.com/user-attachments/assets/6ae16033-5902-4eec-9cb6-74365ab2ad8e" />
-<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 09 PM (1)" src="https://github.com/user-attachments/assets/97cf41dd-801b-41b1-9a24-f6a4778d212b" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 9 59 21 PM (2)" src="https://github.com/user-attachments/assets/0a808a6c-7776-4029-961d-972bac4d28c2" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 9 59 21 PM (3)" src="https://github.com/user-attachments/assets/8cd5c7df-7246-436d-8388-5feddf4b2a41" />
 
 
 
@@ -122,11 +121,9 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
   **LT SPICE**
   **CIRCUIT and Waveform**
+  <img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 10 02 29 PM" src="https://github.com/user-attachments/assets/db49cefe-b02a-4913-82f4-f13e0ce01812" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 10 02 29 PM (1)" src="https://github.com/user-attachments/assets/cb4d1274-a694-485c-b8b1-0a5ce1e15904" />
 
-  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 14 PM" src="https://github.com/user-attachments/assets/1c3f7b36-6199-44bf-afc9-4b8666dbc620" />
-<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 13 PM" src="https://github.com/user-attachments/assets/87c04953-efaf-4b4c-b5e2-9428dee56e07" />
-
-  
 
 **RESULT:**
 Thus the Integrator and Differentiator are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
