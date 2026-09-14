@@ -102,8 +102,8 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
  **Graph**
 
-<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 9 59 21 PM (3)" src="https://github.com/user-attachments/assets/f2e2fddd-f7df-405a-9e46-a52931e8598f" />
-<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 9 59 21 PM (1)" src="https://github.com/user-attachments/assets/4fe6ccb3-d4ce-4e50-bd02-8af3375d218e" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-14 at 10 21 55 PM" src="https://github.com/user-attachments/assets/64920f86-5f43-47c6-9ca6-7c33dcac9864" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-14 at 10 21 55 PM (1)" src="https://github.com/user-attachments/assets/74d6590d-7195-4281-93ea-d8f829c26dd9" />
 
 
 
