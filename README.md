@@ -76,8 +76,8 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
 
   **TABULATION:**
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 9 59 21 PM" src="https://github.com/user-attachments/assets/b2e8ae35-4682-4c8b-917e-280b0266a7d7" />
 
-  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 08 PM (1)" src="https://github.com/user-attachments/assets/bed23c4b-dcc6-4c0c-8ff2-96d5f2c851f3" />
 
  
 
@@ -96,17 +96,15 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
 
   **TABULATION:**
-
-  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 10 PM (1)" src="https://github.com/user-attachments/assets/6ae16033-5902-4eec-9cb6-74365ab2ad8e" />
-<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 09 PM (1)" src="https://github.com/user-attachments/assets/97cf41dd-801b-41b1-9a24-f6a4778d212b" />
-
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 9 59 21 PM (2)" src="https://github.com/user-attachments/assets/84c16ff1-523d-42ba-91bd-da935dfb601c" />
 
 
 
  **Graph**
 
- <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 09 PM" src="https://github.com/user-attachments/assets/7b331dfc-a360-423a-82f5-24d3b9d5f4fa" />
- <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 10 PM (1)" src="https://github.com/user-attachments/assets/aae627eb-34d3-4f00-b1b3-02a7bf68cdda" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 9 59 21 PM (3)" src="https://github.com/user-attachments/assets/f2e2fddd-f7df-405a-9e46-a52931e8598f" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 9 59 21 PM (1)" src="https://github.com/user-attachments/assets/4fe6ccb3-d4ce-4e50-bd02-8af3375d218e" />
+
 
 
 
@@ -123,8 +121,10 @@ We get, CF = (1.59*103*10-7) / 15.9*103
   **LT SPICE**
   **CIRCUIT and Waveform**
 
-  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 14 PM" src="https://github.com/user-attachments/assets/1c3f7b36-6199-44bf-afc9-4b8666dbc620" />
-<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 13 PM" src="https://github.com/user-attachments/assets/87c04953-efaf-4b4c-b5e2-9428dee56e07" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 10 02 29 PM" src="https://github.com/user-attachments/assets/2b337706-8de5-4a48-8b1f-b2e5a45976e7" />
+
+
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 10 02 29 PM (1)" src="https://github.com/user-attachments/assets/23050318-193b-4bf0-b5ed-19b63872c657" />
 
   
 
